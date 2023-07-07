@@ -26,7 +26,6 @@ Welcome to my GitHub repository! This is where I share my journey as a dedicated
 <img align="left" alt="pytorch" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="tensorflow" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" /> 
 
-
 ---
 
 
