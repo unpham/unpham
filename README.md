@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Uyen Pham</h1>
 <h3 align="center">An enthusiastic data scientist</h3>
-Welcome to my GitHub repository! This is where I share my journey as a dedicated and enthusiastic data scientist, highlighting my passion for learning and striving for high-quality results. Through a wide range of projects and experiments, I harness data-driven insights to solve complex problems. Join me on this exciting adventure as we uncover valuable insights and unlock the power of data to make informed decisions. Thank you for visiting, and I hope you enjoy exploring my contributions!
+Welcome to my GitHub repository! This is where I share my journey as a dedicated and enthusiastic data scientist, highlighting my passion for learning and striving for high-quality results. Through a wide range of projects, I harness data-driven insights to solve complex problems. Join me on this exciting adventure as we uncover valuable insights and unlock the power of data to make informed decisions. Thank you for visiting, and I hope you enjoy exploring my contributions!
 
 - I’m currently working on [Quickeats: A Computer Vision Application](https://github.com/ivan-usd/usd-capstone)
 
