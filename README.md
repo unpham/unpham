@@ -27,7 +27,9 @@ Welcome to my GitHub repository! This is where I share my journey as a dedicated
 <img align="left" alt="tensorflow" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" /> 
 
 <p></p>
+
 ---
+
 <p></p>
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unpham&" alt="unpham" /></p>
